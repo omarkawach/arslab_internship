@@ -2,6 +2,23 @@
 
 This repository will provide some background into the work I was a part of during my internship at ARSLab. The documentation for each work is held inside their respective repository. In some areas I've included PowerPoints to provide further background. 
 
+## Table of Contents
+
+#### Types of Work
+- GIS
+  - GIS Simulation Explorer
+  - Spatial Analysis Scenarios
+  - Spatial Autocorrelation Statistics
+- Autodesk Forge Viewer
+  - COVID-BIM
+  - COVID-GAME-APP
+- Miscellaneous 
+  - THREE.JS
+  - Geography Based Model
+#### Credits
+- ARSLab
+- SUSTAIN
+
 ## Types of Work 
 
 ### GIS
