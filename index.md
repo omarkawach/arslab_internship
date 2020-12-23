@@ -1,10 +1,8 @@
+## Welcome
 
+This repository will provide some background into the work I was a part of during my internship at ARSLab. The documentation for each work is held inside their respective repository. In some areas I've included PowerPoints to provide further background. 
 
 ## Types of Work 
-
-**Note**: The documentation for each work is held inside their respective repository 
-
-<iframe src="https://onedrive.live.com/embed?cid=A0BFB350AF1E6169&amp;resid=A0BFB350AF1E6169%214140&amp;authkey=AGWxwu7gU-mXstc&amp;em=2&amp;wdAr=1.7777777777777777" width="610px" height="367px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
 
 ### GIS
 
@@ -12,13 +10,23 @@
 
 A GIS environment based visualization for large scale spatial simulations on the web. The end goal is to have one version, but for now there are two. Here are the differences:
 
-Direct links: 
+###### Additional Background
+
+<iframe src="https://onedrive.live.com/embed?cid=A0BFB350AF1E6169&amp;resid=A0BFB350AF1E6169%214143&amp;authkey=AKVTpFmAwG8NJLI&amp;em=2&amp;wdAr=1.7777777777777777" width="610px" height="367px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+
+###### Direct links
+
 - [GSE V1](https://github.com/staubibr/arslab-web/tree/master/app-gis) 
 - [GSE V2](https://github.com/staubibr/arslab-web/tree/master/app-gis-v2)
+  - [User Video Tutorial hosted on OneDrive (downloadable)](https://onedrive.live.com/embed?cid=A0BFB350AF1E6169&resid=A0BFB350AF1E6169%214146&authkey=AMTmXtr6czVS2nw)
 
 **[Spatial Analysis Scenarios](https://github.com/omarkawach/spatial_analysis_scenarios)**
 
 The goal was to develop a method that automates the generation of large-scale, spatial DEVS simulation models from GIS data. The repository explores various scenarios related to emergency services, disaster responses, and urban logistics. Having technical experience with Python, and QGIS was helpful.  
+
+###### Additional Background
+
+<iframe src="https://onedrive.live.com/embed?cid=A0BFB350AF1E6169&amp;resid=A0BFB350AF1E6169%214142&amp;authkey=AFX0N-NCkci5Irk&amp;em=2&amp;wdAr=1.7777777777777777" width="610px" height="367px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
 
 **[Spatial Autocorrelation Statistics](https://github.com/omarkawach/spatial_autocorrelation)**
 
@@ -30,7 +38,13 @@ Background into spatial autocorrelation statistics and use of GeoDa specialized 
 
 Used BIM data to simulate the spread of viral aerosol in buildings. See the old version in action at the [AEC Hackathon](https://devpost.com/software/covid-bim). See also [BIM-to-DEVS](https://devpost.com/software/bim-to-devs) for an even older version.
 
-**[COVID-GAME-APP]()**
+###### Additional Background (slightly out of date)
+
+<iframe src="https://onedrive.live.com/embed?cid=A0BFB350AF1E6169&amp;resid=A0BFB350AF1E6169%214147&amp;authkey=AE6lf9_LlIQsEyY&amp;em=2&amp;wdAr=1.7777777777777777" width="610px" height="367px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+
+*By Dr. Vinu Rajus*
+
+**[COVID-GAME-APP](https://github.com/SimulationEverywhere-Models/COVID-game-app)**
 
 A COVID game simulator as a real-world application that could train industry practitioners to improve ventilation or spatial design, make informed risk assessments, observe contact tracing, and discover new ways to conduct facilities management. Presented a demo at [Autodesk University Forge Hackathon 2020](https://forge.autodesk.com/blog/congrats-winners-forge-hackathon). 
 
@@ -51,4 +65,4 @@ A Geography based CELL-DEVS model.
 
 [Carleton University - SUSTAIN](https://sustain.sce.carleton.ca/)
 
-https://omarkawach.github.io/arslab_internship/
+
