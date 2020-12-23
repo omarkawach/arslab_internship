@@ -10,6 +10,31 @@ This repository will provide some background into the work I was a part of durin
 
 A GIS environment based visualization for large scale spatial simulations on the web. The end goal is to have one version, but for now there are two. Here are the differences:
 
+- User Interface
+  - V1
+    [<img src="img/v1_ui.png" />](image.png) 
+  - V2
+    [<img src="img/v2_ui.png" />](image.png) 
+- Data Loading 
+  - V1 (in the sidebar)
+    - Local (requires file chunking to read large files)
+    [<img src="img/v1_upload.png"  width="250"/>](image.png) 
+  - V2 (in a separate page)
+    - Server
+        [<img src="img/v2_upload.png"  width="400"/>](image.png) 
+- Customization 
+  - V1
+    - Customize from user interface 
+        [<img src="img/v1_customization.png" width="250"/>](image.png)
+  - V2 
+    - ```Application.json``` provided by end users
+
+        [<img src="img/applicationJSON.png" width="250"/>](image.png)
+
+    - ```Visualization.json``` provided by programmers
+
+        [<img src="img/visualizationJSON.png" />](image.png) 
+
 ###### Additional Background
 
 <iframe src="https://onedrive.live.com/embed?cid=A0BFB350AF1E6169&amp;resid=A0BFB350AF1E6169%214143&amp;authkey=AKVTpFmAwG8NJLI&amp;em=2&amp;wdAr=1.7777777777777777" width="610px" height="367px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
