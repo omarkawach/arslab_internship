@@ -1,3 +1,8 @@
 theme: jekyll-theme-slate
-title: [ARSLAB Research Assistant Internship]
-description: [June 2020 to December 2020]
+title: ARSLAB Research Assistant Internship
+description: &description June 2020 to December 2020
+name: &name Omar Kawach
+
+author:
+  name: Omar Kawach
+  employer: ARSLab
