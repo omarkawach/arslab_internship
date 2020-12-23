@@ -10,11 +10,18 @@ This repository will provide some background into the work I was a part of durin
 
 A GIS environment based visualization for large scale spatial simulations on the web. 
 
-*End goal:* 
+###### Direct Links
+
+- [GSE V1](https://github.com/staubibr/arslab-web/tree/master/app-gis) 
+- [GSE V2](https://github.com/staubibr/arslab-web/tree/master/app-gis-v2)
+  - [User Video Tutorial hosted on OneDrive (downloadable)](https://onedrive.live.com/embed?cid=A0BFB350AF1E6169&resid=A0BFB350AF1E6169%214146&authkey=AMTmXtr6czVS2nw)
+
+###### End Goal 
 - Have one version (V1 --> V2)
 - GSE integration with DEVS Web Viewer
 - Build library of "toy" models 
   - Requires server use, hence the move from V1 to V2
+- Only visualize data within browser window view instead of loading everything 
 - Improve thematic mapping 
   - Choropleth
   - Proportional 
@@ -22,7 +29,7 @@ A GIS environment based visualization for large scale spatial simulations on the
 - Refactor code and clean up UI
 
 
-*Differences between V1 and V2:*
+###### Differences between V1 and V2
 
 - User Interface
   - V1
@@ -38,12 +45,17 @@ A GIS environment based visualization for large scale spatial simulations on the
     [<img src="img/v2_upload.png"  width="400"/>](image.png) 
 - Simulations
   - V1 can support multiple simulations at the same time
+    [<img src="img/v1_sim.png" />](image.png) 
   - V2 only lets you upload one simulation per browser tab
     [<img src="img/v2_sim.png" />](image.png) 
-- Vector data (polygons and centroids)
+- Vector data
+  - V1 only displays polygons
+  [<img src="img/v1_data.png" />](image.png) 
+  - V2 can display various geometries (polygon and centroids)
+  [<img src="img/v2_data.png" />](image.png) 
 - Customization 
   - V1
-    - Customize (color and classification) from user interface 
+    - Limited customization of color and classification from user interface 
         [<img src="img/v1_customization.png" width="250"/>](image.png)
   - V2 
     - ```Application.json``` provided by programmers
@@ -58,11 +70,6 @@ A GIS environment based visualization for large scale spatial simulations on the
 
 <iframe src="https://onedrive.live.com/embed?cid=A0BFB350AF1E6169&amp;resid=A0BFB350AF1E6169%214143&amp;authkey=AKVTpFmAwG8NJLI&amp;em=2&amp;wdAr=1.7777777777777777" width="610px" height="367px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
 
-###### Direct links
-
-- [GSE V1](https://github.com/staubibr/arslab-web/tree/master/app-gis) 
-- [GSE V2](https://github.com/staubibr/arslab-web/tree/master/app-gis-v2)
-  - [User Video Tutorial hosted on OneDrive (downloadable)](https://onedrive.live.com/embed?cid=A0BFB350AF1E6169&resid=A0BFB350AF1E6169%214146&authkey=AMTmXtr6czVS2nw)
 
 **[Spatial Analysis Scenarios](https://github.com/omarkawach/spatial_analysis_scenarios)**
 
