@@ -1,34 +1,54 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/omarkawach/arslab_internship/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Types of Work 
 
-### Markdown
+**Note**: The documentation for each work is held inside their respective repository 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<iframe src="https://onedrive.live.com/embed?cid=A0BFB350AF1E6169&amp;resid=A0BFB350AF1E6169%214140&amp;authkey=AGWxwu7gU-mXstc&amp;em=2&amp;wdAr=1.7777777777777777" width="610px" height="367px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
 
-```markdown
-Syntax highlighted code block
+### GIS
 
-# Header 1
-## Header 2
-### Header 3
+**[GIS Simulation Explorer (GSE)](https://github.com/staubibr/arslab-web/tree/master)**
 
-- Bulleted
-- List
+A GIS environment based visualization for large scale spatial simulations on the web. The end goal is to have one version, but for now there are two. Here are the differences:
 
-1. Numbered
-2. List
+Direct links: 
+- [GSE V1](https://github.com/staubibr/arslab-web/tree/master/app-gis) 
+- [GSE V2](https://github.com/staubibr/arslab-web/tree/master/app-gis-v2)
 
-**Bold** and _Italic_ and `Code` text
+**[Spatial Analysis Scenarios](https://github.com/omarkawach/spatial_analysis_scenarios)**
 
-[Link](url) and ![Image](src)
-```
+The goal was to develop a method that automates the generation of large-scale, spatial DEVS simulation models from GIS data. The repository explores various scenarios related to emergency services, disaster responses, and urban logistics. Having technical experience with Python, and QGIS was helpful.  
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**[Spatial Autocorrelation Statistics](https://github.com/omarkawach/spatial_autocorrelation)**
 
-### Jekyll Themes
+Background into spatial autocorrelation statistics and use of GeoDa specialized software. The repository might be useful for reviewing the Zhong model.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/omarkawach/arslab_internship/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Autodesk Forge Viewer
 
+**[COVID-BIM](https://github.com/SimulationEverywhere-Models/COVID-BIM)**
+
+Used BIM data to simulate the spread of viral aerosol in buildings. See the old version in action at the [AEC Hackathon](https://devpost.com/software/covid-bim). See also [BIM-to-DEVS](https://devpost.com/software/bim-to-devs) for an even older version.
+
+**[COVID-GAME-APP]()**
+
+A COVID game simulator as a real-world application that could train industry practitioners to improve ventilation or spatial design, make informed risk assessments, observe contact tracing, and discover new ways to conduct facilities management. Presented a demo at [Autodesk University Forge Hackathon 2020](https://forge.autodesk.com/blog/congrats-winners-forge-hackathon). 
+
+### Miscellaneous
+
+**[THREE.JS](https://github.com/omarkawach/threejs_grid)**
+
+A quick playground for getting familiar with THREE.JS.
+
+**[Geography Based Model](https://github.com/SimulationEverywhere-Models/Geography-Based-Model)**
+
+A Geography based CELL-DEVS model. 
+
+
+## Credits
+
+[Carleton University - ARSLab](https://arslab.sce.carleton.ca/)
+
+[Carleton University - SUSTAIN](https://sustain.sce.carleton.ca/)
+
+https://omarkawach.github.io/arslab_internship/
