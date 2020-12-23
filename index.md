@@ -8,7 +8,21 @@ This repository will provide some background into the work I was a part of durin
 
 **[GIS Simulation Explorer (GSE)](https://github.com/staubibr/arslab-web/tree/master)**
 
-A GIS environment based visualization for large scale spatial simulations on the web. The end goal is to have one version, but for now there are two. Here are the differences:
+A GIS environment based visualization for large scale spatial simulations on the web. 
+
+*End goal:* 
+- Have one version (V1 --> V2)
+- GSE integration with DEVS Web Viewer
+- Build library of "toy" models 
+  - Requires server use, hence the move from V1 to V2
+- Improve thematic mapping 
+  - Choropleth
+  - Proportional 
+  - Heatmap
+- Refactor code and clean up UI
+
+
+*Differences between V1 and V2:*
 
 - User Interface
   - V1
@@ -20,18 +34,23 @@ A GIS environment based visualization for large scale spatial simulations on the
     - Local (requires file chunking to read large files)
     [<img src="img/v1_upload.png"  width="250"/>](image.png) 
   - V2 (in a separate page)
-    - Server
-        [<img src="img/v2_upload.png"  width="400"/>](image.png) 
+    - Server (fetch and / or send)
+    [<img src="img/v2_upload.png"  width="400"/>](image.png) 
+- Simulations
+  - V1 can support multiple simulations at the same time
+  - V2 only lets you upload one simulation per browser tab
+    [<img src="img/v2_sim.png" />](image.png) 
+- Vector data (polygons and centroids)
 - Customization 
   - V1
-    - Customize from user interface 
+    - Customize (color and classification) from user interface 
         [<img src="img/v1_customization.png" width="250"/>](image.png)
   - V2 
-    - ```Application.json``` provided by end users
+    - ```Application.json``` provided by programmers
 
         [<img src="img/applicationJSON.png" width="250"/>](image.png)
 
-    - ```Visualization.json``` provided by programmers
+    - ```Visualization.json``` provided by end users
 
         [<img src="img/visualizationJSON.png" />](image.png) 
 
