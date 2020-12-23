@@ -1,6 +1,6 @@
 # ARSLAB Research Assistant Internship
 
-Start date: July 2020
+Start date: June 2020
 
 End date: December 2020
 
