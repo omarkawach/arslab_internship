@@ -1,6 +1,6 @@
 # ARSLAB Research Assistant Internship
 
-UPDATE: Some of the links may later become broken as the projects I worked on change locations
+NOTE: Some of the links may later become broken as the projects I worked on change locations
 
 Start date: June 2020
 
